@@ -6,6 +6,29 @@
     font-family: 'Ubuntu', sans-serif;
 }
 
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: rgb(3,3,22);
+}
+
+p{
+    font-size: 5em;
+    font-weight: 600;
+    color: white;
+    text-shadow: 1px 1px 10px blueviolet;
+}
+
+.multi-text{
+    color: blueviolet;
+    margin-left: 5px;
+    font-weight: 900;
+    font-size: 1.4em;
+    text-shadow: 1px 1px 10px cyan;
+}
+
 
 
 
